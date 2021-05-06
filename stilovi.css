@@ -1,0 +1,33 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12pt;
+    font-weight: 200;
+
+}
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    display: contents;
+    float: left;
+}
+nav ul li a{
+    background-color: blueviolet;
+    border:2px solid cornsilk;
+    color: #fff;
+    padding: 6px 12px; 
+    text-decoration: none
+}
+nav a:hover{
+    background-color: violet;
+}
+header {
+    background-image: url("fotke/crno.png" );
+    height: 90px;
+    color: rgb(34, 6, 2);
+    font-size: 80px;
+    text-align: center;
+
+}
